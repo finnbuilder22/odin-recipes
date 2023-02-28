@@ -1,0 +1,13 @@
+h1 {
+  background-color: burlywood;
+  text-align: center;
+  height: 100px;
+  padding-top: 25px;
+  margin-bottom: 0;
+}
+
+ul {
+  background-color: fuchsia;
+  margin-top: 0;
+  width: 200px;
+}
